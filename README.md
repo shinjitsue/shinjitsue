@@ -3,4 +3,3 @@
 <div align="center">
   <img src = "https://github.com/shinjitsue/shinjitsue/assets/71762653/b917dd38-ef9b-45e2-92ed-7ec42c9ea6fe" width=200 />
 </div>
-
