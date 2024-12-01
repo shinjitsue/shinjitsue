@@ -20,7 +20,7 @@
 
 <p align="center">  
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shinjitsue&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000&title_color=D50000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shinjitsue&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI&title_color=D50000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shinjitsue&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=html,css&exclude_repo=Pacman-AI&title_color=D50000">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=shinjitsue&theme=youtube-dark&hide_border=true&background=FFFFFF00">
 </p>
 
