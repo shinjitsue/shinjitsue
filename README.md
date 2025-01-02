@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%231e1e1e.svg?style=for-the-badge&logo=JavaScript&logoColor=D50000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue.js-%231e1e1e.svg?style=for-the-badge&logo=Vue.js&logoColor=D50000" alt="Vue JS" />
-  <img src="https://img.shields.io/badge/Vuetify.js-%231e1e1e.svg?style=for-the-badge&logo=Vuetify&logoColor=D50000" alt="Vuetify JS" />
+  <img src="https://img.shields.io/badge/Vuetify-%231e1e1e.svg?style=for-the-badge&logo=Vuetify&logoColor=D50000" alt="Vuetify" />
   <img src="https://img.shields.io/badge/python-%231e1e1e.svg?style=for-the-badge&logo=python&logoColor=D50000" alt="Python" />
   <img src="https://img.shields.io/badge/django-%231e1e1e.svg?style=for-the-badge&logo=django&logoColor=D50000" alt="Django" />
   <img src="https://img.shields.io/badge/linux-%231e1e1e.svg?style=for-the-badge&logo=linux&logoColor=D50000" alt="Linux" />
