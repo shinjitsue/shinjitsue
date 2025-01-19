@@ -25,8 +25,12 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=shinjitsue&theme=youtube-dark&hide_border=true&background=FFFFFF00">
 </p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=shinjitsue&label=VIEWS&color=D50000&style=flat&abbreviated=true" alt="shinjitsue"/></p>
+
+<!--
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=shinjitsue&label=Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in">
 </p>
+-->
 
 <!-- h4ck{yo!_I'm_W4tch1ng_y0u} -->
