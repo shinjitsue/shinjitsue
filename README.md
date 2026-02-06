@@ -18,7 +18,7 @@
 <p align="center">  
 <!--   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shinjitsue&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000&title_color=D50000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shinjitsue&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=html,css&exclude_repo=Pacman-AI&title_color=D50000"> -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=shinjitsue&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF00&icon_color=D50000&rank_icon=github&hide=issues&ring_color=D50000&hide_title=true&show=prs_merged,prs_merged_percentage&text_color=FFFFFF" />
+  <img width="400" src="https://github-readme-stats-ruby-eight-81.vercel.app/api?username=shinjitsue&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF00&icon_color=D50000&rank_icon=github&hide=issues&ring_color=D50000&hide_title=true&show=prs_merged,prs_merged_percentage&text_color=FFFFFF" />
   <img width="425" src ="https://github-readme-streak-stats.herokuapp.com?user=shinjitsue&theme=youtube-dark&hide_border=true&background=FFFFFF00">
 </p>
 
