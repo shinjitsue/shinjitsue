@@ -3,7 +3,8 @@
   <img src = "https://github.com/user-attachments/assets/855c4671-8f7d-4094-b0a5-45011be11964"/>
 </div>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=shinjitsue&label=VIEWS&color=D50000&style=flat&abbreviated=true" alt="shinjitsue"/></p>
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=shinjitsue&label=VISITORS&color=D50000&style=flat&abbreviated=true" alt="shinjitsue"/></p> -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=shinjitsue&label=VISITORS&color=D50000&style=flat" alt="shinjitsue"/></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-%231e1e1e.svg?style=for-the-badge&logo=TypeScript&logoColor=D50000" alt="TypeScript" />
